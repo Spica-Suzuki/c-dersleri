@@ -2,7 +2,7 @@
 
 /* 
 
-Komut satiri argumanlari!
+Komut satiri argumanlari
 
 Argc = argument count demektir. Argumanin sayisini bize ifade eder.
 Argv = argument values/vector demektir. Argumanin degerini bize ifade eder.
